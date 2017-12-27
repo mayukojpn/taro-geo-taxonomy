@@ -24,7 +24,7 @@ See development section and build plugin files. Then upload it to your `wp-conte
 ### Development
 
 - Clone this repository.
-- Do `comopser install`. If you don't have comopser, intstall it.
+- Do `composer install`. If you don't have comopser, intstall it.
 - Install `npm install`. If you don't have npm, install it.
 - Run `npm start`. All assets will be build with gulp.
 
